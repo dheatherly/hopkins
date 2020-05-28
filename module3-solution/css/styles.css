@@ -16,3 +16,16 @@ body {
 .row {
   background-color: #808080;
 }
+
+#nav-list {
+  background-color: #FFF;
+  color: #000;
+}
+
+#nav-list a {
+  border: 1px solid black;
+}
+
+.navbar-toggle {
+
+}
