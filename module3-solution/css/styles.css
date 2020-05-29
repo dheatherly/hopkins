@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  background-color: #808080;
+  background-color: #B0B0B0;
 }
 
 .navbar-brand span {
@@ -14,7 +14,7 @@ body {
 }
 
 .row {
-  background-color: #808080;
+  background-color: #B0B0B0;
   margin: 15px;
 }
 
@@ -25,4 +25,8 @@ body {
 
 #nav-list a {
   border: 1px solid black;
+}
+
+#nav-list a:hover {
+	background: #FFF;
 }
